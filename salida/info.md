@@ -1,0 +1,1 @@
+Esta carpeta contiene los productos generados en esta app

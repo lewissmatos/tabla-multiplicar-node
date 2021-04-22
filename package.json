@@ -1,0 +1,17 @@
+{
+  "name": "tabla-de-multiplicar",
+  "version": "0.0.4",
+  "description": "Tabla de multiplicar para cualquier numero, y reporte en un archivo txt",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node app --bsae=3"
+  },
+  "author": "Lewis Matos",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {}
+}
